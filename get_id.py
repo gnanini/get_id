@@ -17,9 +17,9 @@ def get_id(game_name):
 
 
 def test():
-    #get_id('MORDHAU')
+    # get_id('MORDHAU')
     get_id(input('Type a correct game name: '))
     return
 
 
-test()
+# test()
